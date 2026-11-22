@@ -1,14 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Privacy Policy</title>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Mathsascent</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #333; }
+    </style>
 </head>
 <body>
     <h1>Privacy Policy</h1>
     <p><strong>Last updated:</strong> November 22, 2026</p>
 
-    <p>This privacy policy applies to the <strong>[Your App Name]</strong> mobile application (the "App") developed by <strong>[Your Name / Zylo]</strong>.</p>
+    <p>This privacy policy applies to the <strong>Mathsascent</strong> mobile application (the "App") developed by <strong>Praveen Kumar Vakkalad</strong>.</p>
 
     <h2>Information Collection and Use</h2>
     <p>The App does <strong>not</strong> collect, store, or share any personal or sensitive user data.</p>
@@ -25,6 +30,6 @@
 
     <h2>Contact Us</h2>
     <p>If you have any questions about this Privacy Policy, please contact us at:<br>
-    <strong>Email:</strong> [your-email@gmail.com]</p>
+    <strong>Email:</strong> vakkaladpraveenkumar@gmail.com</p>
 </body>
 </html>
